@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include<time.h>
 #include<locale.h>
-#include<SDl.h>
+
 /*Meu pokemon será o chamander, ele vai ter hp=150 e vai possuir 4 ataques
 lança chamas, bola de fogo, soco,arranhar
 1- lança-chamas: tira 15 pontos, pode ser usado 3 vezes
