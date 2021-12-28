@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1640555821 source:/home/lucas/estudoC/jogos/jogosrpg/jogosrpg/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"personagem.h"
+	"funcoes.h"
+	"monstros.h"
+
+1640296526 source:/home/lucas/estudoC/jogos/jogosrpg/jogosrpg/personagem.c
+
+1640296526 /home/lucas/estudoC/jogos/jogosrpg/jogosrpg/personagem.c
+
+1640555866 /home/lucas/estudoC/jogos/jogosrpg/jogosrpg/personagem.h
+
+1640456821 /home/lucas/estudoC/jogos/jogosrpg/jogosrpg/funcoes.h
+
+1640551889 /home/lucas/estudoC/jogos/jogosrpg/jogosrpg/monstros.h
+
