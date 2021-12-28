@@ -18,7 +18,7 @@ fica muito demorado e mais complicado pra algúem fazer, o mais interessante e d
 um número, por exemplo, o elemento tabuleiro [0] [0]=1, o tabuleiro [0[ [1]=2 e assim sucessivamente até chegar em 9
 3 PASSO- aqui é feita uma função chamada valida_tabuleiro, pensando em todas as situações em que um dos jogadores vence. as situações são ganhar preenchendo uma linha, ganhar preenchendo uma coluna
 ganhar preenchendo uma diagonal.Pra linha tem 3 possibilidades, pra coluna tem 3 possibilidades e pra diagonal tem 2 possibilidades.
-4 PASSO implementar o compputador e as jogadas que ele pode fazer
+
 
 */
 
