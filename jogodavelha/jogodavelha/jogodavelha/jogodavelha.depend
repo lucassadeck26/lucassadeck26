@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640699415 source:/home/lucas/estudoC/array/arrayexercicios/jogodavelha/jogodavelha/jogodavelha/main.c
+	<stdio.h>
+	<stdlib.h>
+
