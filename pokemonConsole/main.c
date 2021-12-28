@@ -71,7 +71,7 @@ break;
 
 void batalha_charmander()
 {
-              // Acredito que aqui tem que ser executado o comando do while, que permite que um trecho de código seja executado enquanto uma condição é verdadeira
+            
 
 do{
 
